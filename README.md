@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dhaval-DevOps
-- 👀 I’m interested in Android Developer
+- 👀 I’m interested in Android Develpoment
 - 📫 How to reach me linkedIn https://www.linkedin.com/in/dhaval-patel-057946146/
 
 <!---
